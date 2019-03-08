@@ -1,0 +1,15 @@
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\DDNS Application.exe.config
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\DDNS Application.exe
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\DDNS Application.pdb
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\DDNS Application.xml
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\Slardar DDNS Service.exe
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\DotRas.dll
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\Slardar DDNS Service.pdb
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\Slardar DDNS Service.xml
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\bin\Debug\DotRas.xml
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\obj\Debug\DDNS Application.vbprojResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\obj\Debug\DDNS_Application.Resources.resources
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\obj\Debug\DDNS Application.vbproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\obj\Debug\DDNS Application.exe
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\obj\Debug\DDNS Application.xml
+F:\My Documents\Visual Studio 2015\Projects\DDNS\DDNS Application\obj\Debug\DDNS Application.pdb

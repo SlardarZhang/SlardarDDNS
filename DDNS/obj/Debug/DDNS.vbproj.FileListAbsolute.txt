@@ -1,0 +1,3 @@
+f:\my documents\visual studio 2015\Projects\DDNS\DDNS\obj\Debug\DDNS.vbprojResolveAssemblyReference.cache
+f:\my documents\visual studio 2015\Projects\DDNS\DDNS\obj\Debug\DDNS.Resources.resources
+f:\my documents\visual studio 2015\Projects\DDNS\DDNS\obj\Debug\DDNS.vbproj.GenerateResource.Cache
